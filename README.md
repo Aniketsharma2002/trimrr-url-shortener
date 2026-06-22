@@ -3,5 +3,18 @@ Trimrr: URL Shortener with Analytics Trimrr is a user-friendly URL shortener tha
 Key Features URL Shortening: Shorten long URLs to make them easier to share and track. QR Code Generation: Automatically generates QR codes for each short URL. Analytics Dashboard: Provides detailed reports on user clicks, including location and device data. Custom Links: Option to create custom short links instead of auto-generated ones. CRUD Operations: Easily edit, copy, download, and delete URLs. Fast & Secure: Built with Supabase for fast and secure storage. Mobile Responsive: Fully responsive for mobile and tablet use.
 
 Technologies Used Frontend: React with Context API and ShadCN for UI components. State Management: React Context API Backend & Database: Supabase for real-time data storage and authentication. Data Visualization: Recharts for displaying click analytics. Routing: React Router
+
+Screenshots: 
+
 <img width="889" height="415" alt="Screenshot 2026-06-22 172227" src="https://github.com/user-attachments/assets/0c80de96-29b5-48d0-8602-8f1dd2adcbe1" />
+
+
+<img width="851" height="430" alt="Screenshot 2026-06-22 172826" src="https://github.com/user-attachments/assets/3615390e-64f0-4b12-9be9-8d5e878964a7" />
+
+
+
+<img width="631" height="422" alt="Screenshot 2026-06-22 172903" src="https://github.com/user-attachments/assets/8c09f70b-9915-4ace-bca5-63256899734a" />
+
+
+
 
